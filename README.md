@@ -1,1 +1,1 @@
-# js-challenge
+This is the challenge from the JS coursework
